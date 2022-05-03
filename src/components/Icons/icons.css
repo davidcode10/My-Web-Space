@@ -2,6 +2,7 @@ ol {
     margin-top: 50px;
     display: flex;
     justify-content: space-evenly;
+    padding: 0px;
 }
 
 .github-icon {
@@ -59,4 +60,44 @@ ol {
 a {
     text-decoration: none;
     font-size: 2em;
+}
+
+/* max-width: 600px */
+
+@media screen and (max-width: 768px) {
+    .github-icon:hover {
+        font-size: 2em;
+        transition: none;
+    }
+
+    .github-icon:not(:hover) {
+        transition: none;
+    }
+
+    .instagram-icon:hover {
+        font-size: 2em;
+        transition: none;
+    }
+
+    .instagram-icon:not(:hover) {
+        transition: none;
+    }
+
+    .email-icon:hover {
+        font-size: 2em;
+        transition: none;
+    }
+
+    .email-icon:not(:hover) {
+        transition: none;
+    }
+
+    .linkedin-icon:hover {
+        font-size: 2em;
+        transition: none;
+    }
+
+    .linkedin-icon:not(:hover) {
+        transition: none;
+    }
 }
