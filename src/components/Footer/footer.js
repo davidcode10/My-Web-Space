@@ -6,7 +6,7 @@ function footer() {
         <div className='footer'>
             <p className='copyright'>
                 {new Date().getFullYear()} ©
-                <a className='footer-link' href='https://www.instagram.com/davidek_official/?hl=en'>
+                <a className='footer-link' href='https://www.instagram.com/davidek_official/?hl=en' target='_blank'>
                     David
                 </a>
             </p>
