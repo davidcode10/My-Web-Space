@@ -1,7 +1,62 @@
-div {
-    color: white;
+ol {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
 }
 
-li {
-    color: white;
+.github-icon {
+    color: #ffffff;
+}
+
+.github-icon:hover {
+    font-size: 4em;
+    transition: 0.3s;
+}
+
+.github-icon:not(:hover) {
+    transition: 0.3s;
+}
+
+.instagram-icon {
+    color: #f04b5c;
+}
+
+.instagram-icon:hover {
+    font-size: 4em;
+    transition: 0.3s;
+}
+
+.instagram-icon:not(:hover) {
+    transition: 0.3s;
+}
+
+.email-icon {
+    color: #f3bb2d;
+}
+
+.email-icon:hover {
+    font-size: 4em;
+    transition: 0.3s;
+}
+
+.email-icon:not(:hover) {
+    transition: 0.3s;
+}
+
+.linkedin-icon {
+    color: #0b66c2;
+}
+
+.linkedin-icon:hover {
+    font-size: 4em;
+    transition: 0.3s;
+}
+
+.linkedin-icon:not(:hover) {
+    transition: 0.3s;
+}
+
+a {
+    text-decoration: none;
+    font-size: 2em;
 }
