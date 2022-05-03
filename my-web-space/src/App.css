@@ -2,5 +2,6 @@ body {
   background-color: #000000;
   letter-spacing: 2px;
   display: block;
+  font-family: sans-serif;
   margin: 8px;
 }

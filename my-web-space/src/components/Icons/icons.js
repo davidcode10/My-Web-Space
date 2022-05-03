@@ -18,7 +18,7 @@ function icons() {
                     </a>
                 </li>
                 <li>
-                    <a href='' className='email-icon' target='_blank'>
+                    <a href='mailto:davidedson2030@outlook.com' className='email-icon' target='_blank'>
                         <FaRegEnvelope />
                     </a>
                 </li>
