@@ -1,11 +1,11 @@
 import React from 'react'
 import './icons.css'
-import { FaGithub, FaInstagram, FaRegEnvelope, FaLinkedin, FaLinkedinIn } from 'react-icons/fa';
+import { FaGithub, FaInstagram, FaRegEnvelope, FaLinkedin } from 'react-icons/fa';
 
 
 function icons() {
     return (
-        <div className='icons'>
+        <div>
             <ol>
                 <li>
                     <a href='https://github.com/davidcode10' className='github-icon' target='_blank'>

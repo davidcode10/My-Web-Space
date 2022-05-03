@@ -1,4 +1,6 @@
 body {
   background-color: #000000;
   letter-spacing: 2px;
+  display: block;
+  margin: 8px;
 }
